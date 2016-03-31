@@ -1,0 +1,19 @@
+<!--Wed Mar 30 16:54:15 2016-->
+    <configuration>
+    
+    <property>
+      <name>security.admin.protocol.acl</name>
+      <value>*</value>
+    </property>
+    
+    <property>
+      <name>security.client.protocol.acl</name>
+      <value>*</value>
+    </property>
+    
+    <property>
+      <name>security.masterregion.protocol.acl</name>
+      <value>*</value>
+    </property>
+    
+  </configuration>
